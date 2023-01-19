@@ -1,0 +1,9 @@
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\AwsDotnetCsharp.deps.json
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\AwsDotnetCsharp.runtimeconfig.json
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\AwsDotnetCsharp.pdb
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\Elasticsearch.Net.dll
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\018043\source\repos\AwsDotnetCsharp\AwsDotnetCsharp\bin\Release\net6.0\publish\AwsDotnetCsharp.dll
